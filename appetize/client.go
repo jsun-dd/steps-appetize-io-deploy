@@ -16,7 +16,7 @@ import (
 	"github.com/bitrise-io/go-utils/log"
 )
 
-const apiEndPoint = "@api.appetize.io/v1/apps"
+const apiEndPoint = "@doordash.appetize.io/v1/apps"
 
 // Client ...
 type Client struct {
